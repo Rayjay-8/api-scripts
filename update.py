@@ -8,6 +8,7 @@ def updates_important():
     #ret = os.system("pip uninstall "+i)
     if ret != 0:
       print(i+" | install ok!!!")
+      print(ret)
     else:
       print(i+"  | modulo ja instalado")
       print(ret)
