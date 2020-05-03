@@ -4,12 +4,7 @@ list_of_updates = ["asdfcxwer","github","desktopmagic","keyboard","pyautogui","c
 def updates_important():
   global list_of_updates
   for i in list_of_updates:
-    ret = os.system("pip install "+i)
+    os.system("pip install "+i)
     #ret = os.system("pip uninstall "+i)
-    if ret != 0:
-      print(i+" | install ok!!!")
-      print(ret)
-    else:
-      print(i+"  | modulo ja instalado")
-      print(ret)
+    print(i+" | install ok!!!")
 updates_important()
