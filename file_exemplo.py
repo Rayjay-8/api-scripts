@@ -1,1 +1,0 @@
-print("execultando exemplo.......")
