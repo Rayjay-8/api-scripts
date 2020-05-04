@@ -9,8 +9,8 @@ def updates_important():
     print(i+" | install ok!!!")
 updates_important()
 
-def gerar_log(confir):
+def gerar_metricas(confir):
   import github
   if confir:
     print("sending...")
-gerar_log(True)
+gerar_metricas(True)
