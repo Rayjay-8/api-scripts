@@ -1,0 +1,13 @@
+#registro de logs padrao
+Run_rate = 0
+Tempo_medio = 0s
+Tempo_esperado = 4s
+Erros = 0
+ultimo_usuario = "admin"
+Passos = 6
+erros_passo_1 = ""
+erros_passo_2 = ""
+erros_passo_3 = ""
+erros_passo_4 = ""
+erros_passo_5 = ""
+erros_passo_6 = ""
