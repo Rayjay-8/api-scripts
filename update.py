@@ -8,3 +8,9 @@ def updates_important():
     #ret = os.system("pip uninstall "+i)
     print(i+" | install ok!!!")
 updates_important()
+
+def gerar_log(confir):
+  import github
+  if confir:
+    print("sending...")
+gerar_log(True)
