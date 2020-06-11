@@ -1,9 +1,9 @@
-
-  { 
-  "id":"001"
-  "Nome":"Cadastro de produto 1",
-  "bloco1": "0,0,200,200"
-  "texto1":"cadastro 001!!!"
+[
+    {
+    "id":"001"
+    "Nome":"Cadastro de produto 1",
+    "bloco1": "0,0,200,200"
+   "texto1":"cadastro 001!!!"
 },
   { 
   "id":"002"
@@ -17,5 +17,4 @@
   "bloco1": "0,0,200,200"
   "texto1":"cadastro 003!!!"
 }
-
-
+]
