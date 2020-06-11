@@ -4,13 +4,13 @@
   "Nome":"Cadastro de produto 1",
   "bloco1": "0,0,200,200"
   "texto1":"cadastro 001!!!"
-}
+},
   { 
   "id":"002"
   "Nome":"Cadastro de produto 2",
   "bloco1": "0,0,200,200"
   "texto1":"cadastro 002!!!"
-}
+},
   { 
   "id":"003"
   "Nome":"Cadastro de produto 3",
