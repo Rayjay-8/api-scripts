@@ -1,0 +1,1 @@
+[{"Positions":{"TOP":75,"LEFT":315,"WIDTH":36,"HEIGHT":28,"COR":"rgba(78, 181, 181, 0.62)","DICA":"undefined"}},{"Positions":{"TOP":138,"LEFT":363,"WIDTH":14,"HEIGHT":12,"COR":"rgba(78, 181, 181, 0.62)","DICA":"undefined"}},{"Positions":{"TOP":95,"LEFT":405,"WIDTH":81,"HEIGHT":139,"COR":"rgba(181, 125, 79, 0.9)","DICA":"undefined"}},"https://i.imgur.com/844te42.png"]
