@@ -1,1 +1,0 @@
-[{"Positions":{"TOP":59,"LEFT":276,"WIDTH":359,"HEIGHT":245,"COR":"rgba(181, 159, 79, 0.5)","DICA":"undefined"}},{"Positions":{"TOP":108,"LEFT":285,"WIDTH":345,"HEIGHT":37,"COR":"rgba(78, 181, 181, 0.62)","DICA":"undefined"}},"https://i.imgur.com/KFrMFrM.png"]
