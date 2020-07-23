@@ -1,1 +1,0 @@
-[{"Positions":{"TOP":76,"LEFT":389,"WIDTH":217,"HEIGHT":127,"COR":"rgba(78, 181, 181, 0.62)","DICA":"undefined"}},{"Positions":{"TOP":39,"LEFT":1269,"WIDTH":51,"HEIGHT":592,"COR":"rgba(78, 181, 181, 0.62)","DICA":"undefined"}},"https://i.imgur.com/FnRBKhA.png"]
