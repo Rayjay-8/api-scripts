@@ -1,1 +1,0 @@
-[{"Positions":{"TOP":279,"LEFT":966,"WIDTH":50,"HEIGHT":50,"COR":"rgba(16, 21, 183, 0.5)","DICA":"* Shopping\n* menu\n* sub-menu"}},{"Positions":{"TOP":188,"LEFT":1017,"WIDTH":50,"HEIGHT":50,"COR":"rgba(78, 181, 181, 0.62)","DICA":"* Exemplo\n* Exemplo\n* Exemplo\n* Exemplo\n* Exemplo"}},"https://i.imgur.com/m9id5Qh.png"]
