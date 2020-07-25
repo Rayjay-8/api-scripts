@@ -1,3 +1,5 @@
 [{"Positions":{"ORIGENW":"1644","ORIGENH":"925","TOP":252,"LEFT":250,"WIDTH":906,"HEIGHT":176,"COR":"rgba(78, 181, 181, 0.62)",
-"DICA":"<ul><img src=\"https://i.ytimg.com/an_webp/4qZeUsOzpbY/mqdefault_6s.webp?du=3000&amp;sqp=CPjy8PgF&amp;rs=AOn4CLCpv6TT7_QzaEcfQdS4QyfCwW4NuA\" alt=\"alt text\"></li>\n</ul>\n"}},
+"DICA":"<ul>
+<img src=\"https://i.ytimg.com/an_webp/4qZeUsOzpbY/mqhttps://i.ytimg.com/an_webp/4W4LvJnNegA/mqdefault_6s.webp?du=3000&sqp=CMDm8PgF&rs=AOn4CLBhaSKSkhHXPJlM_lOO1ZC3p8DZ-g" alt=\"alt text\">
+<img src=\"https://i.ytimg.com/an_webp/4qZeUsOzpbY/mqdefault_6s.webp?du=3000&amp;sqp=CPjy8PgF&amp;rs=AOn4CLCpv6TT7_QzaEcfQdS4QyfCwW4NuA\" alt=\"alt text\"></li>\n</ul>\n"}},
 "https://i.imgur.com/ShdxIX9.png"]
