@@ -1,0 +1,1 @@
+[{"Positions":{"ORIGENW":"587","ORIGENH":"699","TOP":251,"LEFT":3,"WIDTH":573,"HEIGHT":26,"COR":"rgba(31, 137, 229, 0.7)","DICA":"<p>Erro de português!!!</p>\n"}},{"Positions":{"ORIGENW":"587","ORIGENH":"699","TOP":298,"LEFT":4,"WIDTH":571,"HEIGHT":45,"COR":"rgba(210, 40, 40, 0.7)","DICA":"<p>Errou</p>\n"}},"https://i.imgur.com/OlZKeQd.jpg"]
