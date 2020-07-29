@@ -1,0 +1,1 @@
+[{"Positions":{"ORIGENW":"533","ORIGENH":"723","TOP":518,"LEFT":17,"WIDTH":492,"HEIGHT":97,"COR":"rgba(194, 36, 36, 0.6)","DICA":"<h1 id=\"não-remover-caso\">Não remover caso</h1>\n<ul>\n<li>Tenha pedido parados nessa posição se não vão sumir...</li>\n</ul>\n"}},"https://raw.githubusercontent.com/Rayjay-8/api-scripts/master/p1.png"]
