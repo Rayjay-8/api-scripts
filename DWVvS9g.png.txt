@@ -1,0 +1,1 @@
+[{"Positions":{"ORIGENW":"794","ORIGENH":"581","TOP":31,"LEFT":9,"WIDTH":757,"HEIGHT":68,"COR":"rgba(181, 79, 79, 0.3)","DICA":""}},"https://i.imgur.com/DWVvS9g.png"]
