@@ -1,0 +1,19 @@
+[
+    {
+    "TITULO":"Artigo muito legal",
+    "TEXTO":"exemplo 001",
+    "AUTOR": "RAY"
+
+},
+  { 
+  "TITULO":"Artigo muito legal parte II",
+  "TEXTO":"exemplo 002",
+  "AUTOR": "RAY"
+},
+  { 
+  "TITULO":"XXX - XXX - XXX",
+  "TEXTO":"exemplo 003",
+  "AUTOR": "RAY"
+
+}
+]
