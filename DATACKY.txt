@@ -25,10 +25,5 @@
 {"ip":"177.75.31.6"}
 {"ip":"177.75.31.6"}
 {"ip":"177.75.31.6"}
-{"ip":"177.75.31.6"}
-asdasdas
-undefined
-undefined
-undefined
-192.164
+{"ip":"177.75.31.6"} - meu
 Ips que acessaram o site
