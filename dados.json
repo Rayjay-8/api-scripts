@@ -1,6 +1,4 @@
-[{"TITULO":"xxxxxxxx","TEXTO":"<p>
-	<iframe style='width: 560px; height: 315px;' data-youtube-id='ISAy3Dz3MqE' src='https://www.youtube.com/embed/ISAy3Dz3MqE?wmode=opaque&amp;start=0' allowfullscreen='' frameborder='0'></iframe><br />
-</p>","AUTOR": "xxxxxxx"},
+[{"TITULO":"xxxxxxxx","TEXTO":"<p><iframe style='width: 560px; height: 315px;' data-youtube-id='ISAy3Dz3MqE' src='https://www.youtube.com/embed/ISAy3Dz3MqE?wmode=opaque&amp;start=0' allowfullscreen='' frameborder='0'></iframe><br /></p>","AUTOR": "xxxxxxx"},
 {"TITULO":"123","TEXTO":"<p><iframe style='width: 560px; height: 315px;' data-youtube-id='-cPS2cUf09Y' src='https://www.youtube.com/embed/-cPS2cUf09Y?wmode=opaque&amp;start=0' allowfullscreen='' frameborder='0'></iframe><br /></p>","AUTOR": "12"},
 {"TITULO":"123","TEXTO":"<p><span style='color: rgb(23, 181, 41);'>ray</span></p>","AUTOR": "ray"},
 {"TITULO":"123","TEXTO":"<p style='text-align: center; '><span style='font-size: 32px;'>123123</span></p>","AUTOR": "ray"},
