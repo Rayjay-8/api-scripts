@@ -1,12 +1,4 @@
-{"TITULO":"123","TEXTO":"<p>
-	<iframe style='width: 560px; height: 315px;' data-youtube-id='-cPS2cUf09Y' src='https://www.youtube.com/embed/-cPS2cUf09Y?wmode=opaque&amp;start=0' allowfullscreen='' frameborder='0'></iframe><br />
-</p>","AUTOR": "12"},
-{"TITULO":"234","TEXTO":"<p>
-	234234
-</p>","AUTOR": "234234"},
-{"TITULO":"ray","TEXTO":"<p>
-	ggg
-</p>","AUTOR": "erwer"},
+{"TITULO":"123","TEXTO":"<p><iframe style='width: 560px; height: 315px;' data-youtube-id='-cPS2cUf09Y' src='https://www.youtube.com/embed/-cPS2cUf09Y?wmode=opaque&amp;start=0' allowfullscreen='' frameborder='0'></iframe><br /></p>","AUTOR": "12"},
 {"TITULO":"123","TEXTO":"<p><span style='color: rgb(23, 181, 41);'>ray</span></p>","AUTOR": "ray"},
 {"TITULO":"123","TEXTO":"<p style='text-align: center; '><span style='font-size: 32px;'>123123</span></p>","AUTOR": "ray"},
 {"TITULO":"222222222222222","TEXTO":"<p>123123</p>","AUTOR": "ray"},
