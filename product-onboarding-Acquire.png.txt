@@ -1,1 +1,0 @@
-[{"Positions":{"ORIGENW":"1436","ORIGENH":"673","TOP":330,"LEFT":4,"WIDTH":50,"HEIGHT":50,"COR":"rgba(78, 181, 181, 0.62)","DICA":""}},"https://acquire.io/wp-content/uploads/2017/07/product-onboarding-Acquire.png"]
