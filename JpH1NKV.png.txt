@@ -1,1 +1,0 @@
-[{"Positions":{"ORIGENW":"1080","ORIGENH":"1080","TOP":79,"LEFT":179,"WIDTH":386,"HEIGHT":47,"COR":"rgba(78, 181, 181, 0.62)","DICA":"<p>Menu legaal</p>\n"}},{"Positions":{"ORIGENW":"1080","ORIGENH":"1080","TOP":123,"LEFT":441,"WIDTH":390,"HEIGHT":351,"COR":"rgba(79, 86, 181, 0.9)","DICA":"<p>Tenis</p>\n"}},"https://i.imgur.com/JpH1NKV.png"]
