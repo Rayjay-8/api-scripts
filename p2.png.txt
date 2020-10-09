@@ -1,1 +1,0 @@
-[{"Positions":{"ORIGENW":"1004","ORIGENH":"741","TOP":426,"LEFT":7,"WIDTH":979,"HEIGHT":44,"COR":"rgba(78, 181, 181, 0.62)","DICA":"<p>Verificar:</p>\n<ul>\n<li>Não pode bloquear mais do que necessário, nem menos que o necessário</li>\n</ul>\n"}},"https://raw.githubusercontent.com/Rayjay-8/api-scripts/master/p2.png"]
