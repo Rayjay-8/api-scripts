@@ -6,8 +6,8 @@
 },
   { 
   "ID":"2",
-  "Nome":"Funções para automação",
-   "LINK":"https://datack.herokuapp.com/ressixe?config=HIyXiYw.png.txt"
+  "Nome":"Pyautogui",
+   "LINK":"https://pyautogui.readthedocs.io/en/latest/keyboard.html"
 },
   { 
   "ID":"3",
